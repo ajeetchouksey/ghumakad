@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/ajeetchouksey/ghumakad/discussions
+    about: Ask questions and discuss ideas with the community
+  - name: 📖 Documentation
+    url: https://github.com/ajeetchouksey/ghumakad/blob/main/travel_itinerary_planner_summary.md
+    about: Read the project overview and technical documentation
