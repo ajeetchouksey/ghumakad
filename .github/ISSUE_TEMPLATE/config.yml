@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Product Plan & Documentation
+    url: https://github.com/ajeetchouksey/ghumakad/blob/main/PRODUCT_PLAN.md
+    about: View the complete product plan and technical architecture
+  - name: 🚀 Development Roadmap
+    url: https://github.com/ajeetchouksey/ghumakad/blob/main/PRODUCT_PLAN.md#-development-roadmap
+    about: Check the current sprint and development progress
+  - name: 💬 General Discussion
+    url: https://github.com/ajeetchouksey/ghumakad/discussions
+    about: Ask questions or start discussions about the project
