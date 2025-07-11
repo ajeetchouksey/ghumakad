@@ -8,7 +8,7 @@ Ghumakad changes the game by guiding you through every step of the trip, without
 
 ## The Traveler’s Story
  
-You, w ho loves to travel but has little time to plan. You want:
+You, who loves to travel but has little time to plan. You want:
 
 - A clear, day-by-day itinerary
 - Personalized recommendations based on your interests
