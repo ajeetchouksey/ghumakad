@@ -1,4 +1,4 @@
-# Ghumakad: Your Personal Travel Companion
+# Ghumakad: 
 
 ![App Preview](./images/ghumakadapp.jpeg)
 
