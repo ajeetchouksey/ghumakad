@@ -1,5 +1,5 @@
 // Terraform variables for Ghumakad infrastructure
-tf_version = "// Follow Terraform style guide: https://developer.hashicorp.com/terraform/language/style"
+// tf_version directive removed: not valid HCL syntax. See https://developer.hashicorp.com/terraform/language/style for guidelines.
 
 variable "location" {
   description = "Azure region for all resources"
