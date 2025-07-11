@@ -1,4 +1,4 @@
-# 🧳 Ghumakad - Travel Itinerary Planner
+# 🧳 Ghumakad - Travel Itinerary Planner 🥸
 
 > *"Ghumakad" (घुमक्कड़) - A Hindi word meaning "wanderer" or "traveler"*
 
