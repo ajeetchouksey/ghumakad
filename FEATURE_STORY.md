@@ -1,4 +1,4 @@
-# Ghumakad: 
+# Ghumakad
 
 ![Ghumakad app interface preview](./images/ghumakadapp.jpeg)
 
