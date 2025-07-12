@@ -1,6 +1,6 @@
 # Ghumakad: Your Personal Travel Companion
 
-![App Preview](./images/ghumakadapp.jpeg)
+![Ghumakad app interface preview](./images/ghumakadapp.jpeg)
 
 Imagine you’re planning your dream vacation—exploring hidden gems in a new city, savoring local cuisine, and creating memories that last a lifetime. But between juggling flights, accommodations, activities, and dietary preferences, it can quickly become overwhelming. 
 
