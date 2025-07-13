@@ -1,14 +1,15 @@
-# Ghumakad
+# Ghumakad: Your Personal Travel Companion
+![Ghumakad Banner](https://dummyimage.com/1200x300/007ACC/ffffff&text=Ghumakad)
 
-![Ghumakad app interface preview](./images/ghumakadapp.jpeg)
+![App Preview](images/ghumakadapp.jpeg)
 
 Imagine you’re planning your dream vacation—exploring hidden gems in a new city, savoring local cuisine, and creating memories that last a lifetime. But between juggling flights, accommodations, activities, and dietary preferences, it can quickly become overwhelming. 
 
 Ghumakad changes the game by guiding you through every step of the trip, without burdening you with technical details or multiple apps.
 
 ## The Traveler’s Story
- 
-You love to travel but have little time to plan. You want:
+
+You—a busy professional who loves to travel but has little time to plan. You want:
 
 - A clear, day-by-day itinerary
 - Personalized recommendations based on your interests

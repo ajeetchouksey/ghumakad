@@ -45,10 +45,7 @@ This project is currently in the planning phase. Check out our [Product Plan](./
 
 ## 📈 Development Status
 
-- [x] Product planning and documentation
-- [ ] MVP development (Q2 2024)
-- [ ] Beta testing (Q3 2024)  
-- [ ] Public launch (Q4 2024)
+- **TBD**
 
 ## 🤝 Contributing
 
